@@ -23,17 +23,17 @@ This will bring you to the Just Eat homepage.
 Figure 1.1 - Just Eat Homepage
 
 Click on the “Log in” link in the upper right corner.
-![Log in Button](Images/Log_in_Button.png)
+![Log in Button](Images/Log_inButton.png)
 Figure 1.2 - Just Eat log-in location
 Click on the “Sign up” link under the login button.
-![Sign up](Images/Sign_up_link.png)
+![Sign up](Images/SignUpLink.png)
 Figure 1.3 - Sign up link
 
 There are two options for creating an account.
 #### Option A:  
 Click on the “Continue with Facebook” button. *Note* Only use this option if you 
 already have a Facebook account and are currently signed in.
-![Facebook button](Images/FB_Create.png)
+![Facebook button](Images/FBCreate.png)
 Figure 1.4.a - Facebook button
 
 This will log you in immediately using your Facebook credentials.
@@ -41,16 +41,16 @@ This will log you in immediately using your Facebook credentials.
 ##### Option B: 
 Create an account with your email.
 Type in your name, email address, and a password you will remember. 
-![Create an Account](Images/Sign_up_email.png)
+![Create an Account](Images/SignUpEmail.png)
 Figure 1.4.b.I - Create an Account
 
 Click this small box if you do not want notifications or additional offers via email.
-![Offers box](Images/Deals_box.png)
+![Offers box](Images/DealsBox.png)
 Figure 1.4.b.II - Do not receive offers
 
 Click the “Sign up” button to register. You will be signed in and brought back to the Just 
 Eat homepage.
-![Sign up button](Images/Sign_up_button.png)
+![Sign up button](Images/SignUpButton.png)
 Figure 1.4.b.III – Sign up button
 
 Verify you are logged in by checking the name in the top right corner is yours.
@@ -67,7 +67,7 @@ and press enter.  This will bring you to the Just Eat homepage.
 Figure 2.1 – Navigate to Just Eat Home page
 
 Click on the “Log in” link in the upper right corner.
-![Login](Images/Log_in_Button.png)
+![Login](Images/Log_inButton.png)
 Figure 2.2 Just Eat log in location
 
 
@@ -77,23 +77,23 @@ an account.
 #### Option A: 
 If you created your account with your Facebook login, make sure you are currently 
 logged in to Facebook. Click the “Continue with Facebook” button. 
-![Facebook Login](Images/Login_FB.png)
+![Facebook Login](Images/LoginFB.png)
 Figure 2.3.a – Facebook login 
 #### Option B: 
 If you created your account with your email and password, use the following steps:
 Enter your email and password information.
-![Email Login](Images/Login_Email.png)
+![Email Login](Images/LoginEmail.png)
 Figure 2.3.b.I – Email and Password
 
 If you want to reduce the number of times you must log in, keep the “Remember me” 
 box checked. 
 If you would like to log in each time, uncheck this box.
-![Remember Me](Images/Remember_Me.png)
+![Remember Me](Images/RememberMe.png)
 Figure 2.3.b.II – Remember me box
 
 Click on the “Log in” button. You will be signed in and brought back to the Just 
 Eat homepage.
-![Login Button](Images/Login_Button)
+![Login Button](Images/LoginButton)
 Figure 2.2.b.III – Login button
 
 Verify you are logged in by checking the name in the top right corner.
@@ -121,19 +121,19 @@ Figure 3.3 – Enter postcode
 	
 Click on the “Search” button. You will be brought to a list of restaurants that 
 service your postcode.
-![Search button](Images/Restaurant_Search.png)
+![Search button](Images/RestaurantSearch.png)
 Figure 3.4 – Seach button
 
 Search for specific types of cuisines either by picking from the “Popular 
 Cuisines” options at the top of the page,
-![Popular Cuisines](Images/Popular_Cuisine.png)
+![Popular Cuisines](Images/PopularCuisine.png)
 Figure 3.5.a – Popular cuisines
 *or* select from a more detailed listing on the left side of the page.
-![All Cuisines](Images/Name_Search.png)
+![All Cuisines](Images/NameSearch.png)
 Figure 3.5.b – All cuisines
 
 *Currently open restaurants are listed at the top*
-![Open Restaurants](Images/Open_Restaurants.png)
+![Open Restaurants](Images/OpenRestaurants.png)
 Figure 3.5.c – Open restaurants
 
 Change how the restaurants are sorted by hovering over the sorting option and 
@@ -143,9 +143,9 @@ Figure 3.6 – Sort options
 
 Search restaurants by typing the name of the restaurant or the dish you would 
 like into the search bar and clicking search
-![Search](Images/Name_Search.png)
+![Search](Images/NameSearch.png)
 Figure 3.7 – Search for restaurants or dishes
 Find the restaurant you want to order from and click on it. You will be taken 
 to that restaurant’s page.
-![Restaurant Page](Images/Restaurant_Page.png)
+![Restaurant Page](Images/RestaurantPage.png)
 Figure 3.8 – Restaurant’s page
