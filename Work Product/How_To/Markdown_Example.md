@@ -87,9 +87,9 @@ Create an account with your email.
 
 7.  Signing up will open a pop-up window with your Account Information
 <figure>
-	<img src="Images/009LoginAccountInfo.jpg"
+	<img src="Images/009LoginAcctInfo.jpg"
 		width:200;
-		alt="Account Information pop up">
+		alt=" Account Information pop up">
 </figure>
 
 ### Logging in 
