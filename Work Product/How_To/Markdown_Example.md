@@ -38,13 +38,13 @@ and press the Enter key.
 		width:200;
 		alt="Create An Account button">
 </figure>
-4.  There are two options for creating an account.
+4.  There are two options for creating an account:
 
 #### Option A
 Use your Facebook account to log in.
 
-**Note:** *Only use this option if you 
-already have a Facebook account and are currently signed in.*
+**Note:** *This option can only be used if you already have a Facebook 
+account and are currently signed in.*
 
    - Click on the “Continue with Facebook” button. 
 <figure>
