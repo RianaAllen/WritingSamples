@@ -90,7 +90,7 @@ in the upper right corner of the screen.
 8. This will open a pop-up window with your Account Information
 <figure>
 	<img src="Images/009AccountInfo.jpg"
-		width:1000
+		width:300
 		alt="Account Information pop up"
 </figure>
 
@@ -101,14 +101,14 @@ create an account.
 and press the "Enter" key.
    - This will bring you to the Just Eat homepage.
 <figure>
-	<img src="Images/Homepage.png"
+	<img src="Images/001Homepage.jpg"
 		width: 1000;
 		alt="Just Eat Homepage">
 </figure>
 
 2.  Click the “Log in” link in the upper right corner.
 <figure>
-	<img src="Images/Log_inButton.png"
+	<img src="Images/002Log_inButton.jpg"
 		width: 1000;
 		alt="Just Eat Login Button">
 </figure>
@@ -121,44 +121,67 @@ If you created your account with your Facebook login, make sure you are currentl
 logged in to Facebook. 
    - Click the “Continue with Facebook” button.
 <figure>
-	<img src="Images/LoginFB.png"
+	<img src="Images/010LoginFB.jpg"
 		width: 300;
 		alt="Facebook Login">
 </figure>
+   - This will immediately log you in using your Facebook Credentials
 
 #### Option B 
 If you created your account with your email and password, use the following steps:
    - Enter your email and password information.
 <figure>
-	<img src="Images/LoginFB.png"
+	<img src="Images/011LoginEmail.jpg"
 		width: 300;
-		alt="Facebook Login">
+		alt="Email and Password Login">
 </figure>
 
-4. For either option, if you want to reduce the number of times you must log in, 
-keep the “Remember me” box checked. 
-   - If you would like to log in each time, uncheck this box.
-<figure>
-	<img src="Images/RememberMe.png"
-		width: 300;
-		alt="Remember me">
-</figure>
-
-5. Click the “Log in” button.
-   - You will be signed in and brought back to the Just Eat homepage.
+   - Click the “Log in” button.
 <figure>
 	<img src="Images/LoginButton"
 		width:300;
-		alt="Login Button"
+		alt="Login Button">
 </figure>
 
-6.  You can verify you are logged in by checking for your name in the top right corner.
+6. Either login path will bring up the Just Eat homepage and a pop-up window with Account Information
 <figure>
-	<img src="Images/Verify.png"
+	<img src="Images/009LoginAcctInfo.jpg"
 		width:1000
-		alt="Verify Login">
+		alt="Account Information at Login">
+</figure>
+		
+7.  You can verify you are logged in at any time by checking the account information.
+    - Click on the hamburger icon in the upper right corner of the screen
+<figure>
+	<img src="Images/008AcctInfoE.jpg"
+		width:1000
+		alt="Account Information hamburger icon">
 </figure>
 
+### Password Reset
+If you forget your password, you can reset this from the Login screen
+1. Open any web browser, type [just-eat.co.uk](just-eat.co.uk) into the navigation
+bar, and press the enter key.  
+   - This will bring you to the Just Eat homepage.
+<figure>
+	<img src="Images/Homepage.png"
+		width: 1000;
+		alt="Just Eat Homepage">
+</figure>
+
+2.  Click the “Log in” link in the upper right corner.
+<figure>
+	<img src="Images/002Log_inButton.jpg"
+		width: 1000;
+		alt="Just Eat Login Button">
+</figure>
+
+3. Click the "Forgot Password" link below the login information.
+<figure>
+	<img src="Images/012ForgotPassword.jpg"
+		width:300
+		alt="Forgot Password link">
+</figure>
 ### Finding Restaurants 
 Once you have [created an account](#signing-up) and [logged in](#logging-in), you can 
 find a restaurant from which to order.
