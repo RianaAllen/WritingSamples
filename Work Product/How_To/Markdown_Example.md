@@ -19,7 +19,7 @@ Open any web browser and type [just-eat.co.uk](just-eat.co.uk) into the navigati
 This will bring you to the Just Eat homepage.
 <figure>
 	<img src="Images/Homepage.png"
-		width="200"
+		width="600"
 		alt="Just Eat Homepage">
 	<figcaption>Figure 1.1 - Just Eat Homepage</figcaption>
 </figure>
