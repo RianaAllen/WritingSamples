@@ -1,8 +1,8 @@
 # Using the Just Eat Website
 
-<center>###Riana Franklin Allen</center>
+### <center>Riana Franklin Allen</center>
 
-<center>###April 8, 2020</center>
+### <center>April 8, 2020</center>
 
 ## Introduction: 
 With the spread of Covid-19 and the Coronavirus, more people are in self-isolation than ever 
