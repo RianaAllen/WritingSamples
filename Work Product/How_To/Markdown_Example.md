@@ -364,7 +364,7 @@ be delivered, can be added by clicking on that section.
     -  Select the payment method and determine how you 
 will pay for the order and click the "Done" button.
 <figure>
-	<img src="Image/034PaymentMethod.jpg"
+	<img src="Images/034PaymentMethod.jpg"
 		width:300;
 		alt="Payment Method"
 </figure>
@@ -372,7 +372,38 @@ will pay for the order and click the "Done" button.
 8.  If you do not want to receive emails and text message offers,
 check the small box at the bottom of the screen.
 <figure>
-	<img src="Image/035SMS.jpg"
+	<img src="Images/035SMS.jpg"
 		width:500;
 		alt="Email and SMS notifications">
+</figure>
+
+9.  Review the order in the basket to the right. Once it has been
+reviewed, click the "Order & Pay" button.
+<figure>
+	<img src="Images/036BasketReview.jpg"
+		width:300;
+		alt="Order and pay">
+</figure>
+
+10.  Once the order is placed, you will be redirected to a confirmation
+screen with the information about your order.
+<figure>
+	<img src="Images/037OrderPlaced.jpg"
+		width:500;
+		alt="Order confirmation">
+</figure>
+
+### Sign Out
+Once you have placed your order, you can sign out
+1. Click on the hamburger icon in the upper right corner of the page
+<figure>
+	<img src="Images/009LoginAcctInfo.jpg"
+		width:1000;
+		alt="Account Information at Login">
+</figure>
+2. At the bottom of the pop-up screen, select the "Sign Out" option
+<figure>
+	<img src="Images/038SignOut.jpg"
+		width:300;
+		alt="Sign Out">
 </figure>
