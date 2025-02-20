@@ -82,7 +82,7 @@ Create an account with your email.
 7.  You can verify you are logged in by clicking on the "hamburger" icon
 in the upper right corner of the screen.
 <figure>
-	<img src="Images/008AccountInfoE.jpg"
+	<img src="Images/008AcctInfoE.jpg"
 		width:1000
 		alt="Account information hamburger icon">
 </figure>
