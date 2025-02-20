@@ -41,8 +41,10 @@ and press the Enter key.
 
 #### Option A
 Use your Facebook account to log in.
-:memo: **Note:** Only use this option if you 
-already have a Facebook account and are currently signed in.
+
+**Note:** *Only use this option if you 
+already have a Facebook account and are currently signed in.*
+
    a. Click on the “Continue with Facebook” button. 
 <figure>
 	<img src="Images/FBCreate.png"
