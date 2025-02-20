@@ -17,7 +17,7 @@ Use these steps to create an account. If you already have an account, skip to th
 on logging in.
 1. Open any web browser and type [just-eat.co.uk](just-eat.co.uk) into the navigation bar
 and press the Enter key.  
-   a. This will bring you to the Just Eat homepage.
+   - This will bring you to the Just Eat homepage.
 <figure>
 	<img src="Images/Homepage.png"
 		width: 1000;
@@ -35,7 +35,7 @@ and press the Enter key.
 <figure>
 	<img src="Images/SignUpLink.png"
 		width: 1000;
-		alt="Sign up link"
+		alt="Sign up link">
 </figure>
 4.  There are two options for creating an account.
 
@@ -45,131 +45,191 @@ Use your Facebook account to log in.
 **Note:** *Only use this option if you 
 already have a Facebook account and are currently signed in.*
 
-   a. Click on the “Continue with Facebook” button. 
+   - Click on the “Continue with Facebook” button. 
 <figure>
 	<img src="Images/FBCreate.png"
-		width: 400;
-		alt="Continue with Facebook Login"
+		width: 300;
+		alt="Continue with Facebook Login">
 </figure>
-   b. This will log you in immediately using your Facebook credentials.
+   - This will log you in immediately using your Facebook credentials.
 
 #### Option B
 Create an account with your email.
-    a.  Type in your name, email address, and a password you will remember. 
+
+   - Type in your name, email address, and a password you will remember. 
 <figure>
 	<img src="Images/SignUpEmail.png"
-		width:400;
-		alt="Create an Account"
+		width:300;
+		alt="Create an Account">
 </figure>
 
-5.  For either option, click this small box if you do not want notifications
+5. For either option, click this small box if you do not want notifications
 or additional offers via email.
-![Offers box](Images/DealsBox.png)
-<figcaption>Figure 1.4.b.II - Do not receive offers</figcaption>
-
-6.  Click the “Sign up” button to register. You will be signed in and brought back to
-the Just Eat homepage.
-![Sign up button](Images/SignUpButton.png)
-<figcaption>Figure 1.4.b.III – Sign up button</figcaption>
+<figure>
+	<img src="Images/DealsBox.png"
+		width: 300;
+		alt="Offers box">
+</figure>
+	
+6. Click the “Sign up” button to register.
+   - You will be signed in and brought back to the Just Eat homepage.
+<figure>
+	<img src="Images/SignUpButton.png
+		width: 300
+		alt="Sign up button">
+</figure>
 
 7.  You can verify you are logged in by checking that your name is in the top right corner.
-![Verify Login](Images/Verify.png)
-<figcaption>Figure 1.5 – Verify Login</figcaption>
-
+<figure>
+	<img src=Images/Verify.png
+		width:1000
+		alt="Verify Login">
+</figure>
 
 ### Logging in 
 Use these steps after an account has been created. See the [previous section](#signing-up) for how to 
 create an account.
-1.  Open any web browser and type [“just-eat.co.uk”](just-eat.co.uk) into the navigation bar 
-and press enter.
-    a.  This will bring you to the Just Eat homepage.
-![Just Eat Homepage](Images/Homepage.png)
-<figcaption>Figure 2.1 – Navigate to Just Eat Home page</figcaption>
+1. Open any web browser and type [“just-eat.co.uk”](just-eat.co.uk) into the navigation bar 
+and press the "Enter" key.
+   - This will bring you to the Just Eat homepage.
+<figure>
+	<img src="Images/Homepage.png"
+		width: 1000;
+		alt="Just Eat Homepage">
+</figure>
 
 2.  Click the “Log in” link in the upper right corner.
-![Login](Images/Log_inButton.png)
-<figcaption>Figure 2.2 Just Eat log in location</figcaption>
+<figure>
+	<img src="Images/Log_inButton.png"
+		width: 1000;
+		alt="Just Eat Login Button">
+</figure>
 
 3.  Depending on how you created your account, there are two options for logging in to 
 an account.
 
 #### Option A
-    a. If you created your account with your Facebook login, make sure you are currently 
+If you created your account with your Facebook login, make sure you are currently 
 logged in to Facebook. 
-    b.  Click the “Continue with Facebook” button. 
-![Facebook Login](Images/LoginFB.png)
-<figcaption>Figure 2.3.a – Facebook login</figcaption>
+   - Click the “Continue with Facebook” button.
+<figure>
+	<img src="Images/LoginFB.png"
+		width: 300;
+		alt="Facebook Login">
+</figure>
 
 #### Option B 
-    a. If you created your account with your email and password, use the following steps:
-    b. Enter your email and password information.
-![Email Login](Images/LoginEmail.png)
-<figcaption>Figure 2.3.b.I – Email and Password</figcaption>
+If you created your account with your email and password, use the following steps:
+   - Enter your email and password information.
+<figure>
+	<img src="Images/LoginFB.png"
+		width: 300;
+		alt="Facebook Login">
+</figure>
 
-4.  For either option, if you want to reduce the number of times you must log in, 
+4. For either option, if you want to reduce the number of times you must log in, 
 keep the “Remember me” box checked. 
-    a.  If you would like to log in each time, uncheck this box.
-![Remember Me](Images/RememberMe.png)
-<figcaption>Figure 2.3.b.II – Remember me box</figcaption>
+   - If you would like to log in each time, uncheck this box.
+<figure>
+	<img src="Images/RememberMe.png"
+		width: 300;
+		alt="Remember me">
+</figure>
 
-5.  Click the “Log in” button.
-    a. You will be signed in and brought back to the Just Eat homepage.
-![Login Button](Images/LoginButton)
-<figcaption>Figure 2.2.b.III – Login button</figcaption>
+5. Click the “Log in” button.
+   - You will be signed in and brought back to the Just Eat homepage.
+<figure>
+	<img src="Images/LoginButton"
+		width:300;
+		alt="Login Button"
+</figure>
 
 6.  You can verify you are logged in by checking for your name in the top right corner.
-![Verify Login](Images/Verify.png)
-<figcaption>Figure 2.4 – Verify Login</figcaption>
+<figure>
+	<img src="Images/Verify.png"
+		width:1000
+		alt="Verify Login">
+</figure>
 
 ### Finding Restaurants 
 Once you have [created an account](#signing-up) and [logged in](#logging-in), you can 
 find a restaurant from which to order.
 
-1.  Open any web browser, type [just-eat.co.uk](just-eat.co.uk) into the navigation
+1. Open any web browser, type [just-eat.co.uk](just-eat.co.uk) into the navigation
 bar, and press the enter key.  
-    a. This will bring you to the Just Eat homepage.
-![Just Eat Homepage](Images/Homepage.png)
-<figcaption>Figure 3.1 – Navigate to Just Eat Home page</figcaption>
+   - This will bring you to the Just Eat homepage.
+<figure>
+	<img src="Images/Homepage.png"
+		width: 1000;
+		alt="Just Eat Homepage">
+</figure>
 
 2.  Verify you have created an account and are logged in. 
-![Login](Images/Verify.png)
-<figcaption>Figure 3.2 – Verify Login</figcaption>
+<figure>
+	<img src="Images/Verify.png"
+		width:1000
+		alt="Verify Login">
+</figure>
 
-3.  Enter your postcode in the search bar. 
-![Postcode](Images/Postcode.png)
-<figcaption>Figure 3.3 – Enter postcode</figcaption>
+3.  Enter your postcode in the search bar.
+<figure>
+	<img src="Images/Postcode.png"
+		width:1000
+		alt="Verify Login">
+</figure> 
 	
-4.  Click the “Search” button.
-    a.  You will be brought to a list of restaurants that 
+4. Click the “Search” button.
+   - You will be brought to a list of restaurants that 
 service your postcode.
-![Search button](Images/RestaurantSearch.png)
-<figcaption>Figure 3.4 – Seach button</figcaption>
+<figure>
+	<img src="Images/RestaurantSearch.png"
+		width:1000
+		alt="Search button">
+</figure>
 
 5.  Search for specific types of cuisines either by picking from the “Popular 
 Cuisines” options at the top of the page,
-![Popular Cuisines](Images/PopularCuisine.png)
-<figcaption>Figure 3.5.a – Popular cuisines</figcaption>
+<figure>
+	<img src="Images/PopularCuisine.png"
+		width:1000
+		alt="Popular Cuisines">
+</figure>
 
 *or* select from a more detailed listing on the left side of the page.
-![All Cuisines](Images/NameSearch.png)
-<figcaption>Figure 3.5.b – All cuisines</figcaption>
+<figure>
+	<img src="Images/NameSearch.png"
+		width:1000
+		alt="All Cuisines">
+</figure>
 
 *Currently open restaurants are listed at the top.*
-![Open Restaurants](Images/OpenRestaurants.png)
-<figcaption>Figure 3.5.c – Open restaurants</figcaption>
+<figure>
+	<img src="Images/OpenRestaurants.png"
+		width:1000
+		alt="Open Restaurants">
+</figure>
 
-6.  Change how the restaurants are sorted by hovering over the sorting option and 
+6. Change how the restaurants are sorted by hovering over the sorting option and 
 selecting a different option.
-    a. Restaurants are sorted by “Best Match” by default.
-![Sort Options](Images/Sort.png)
-<figcaption>Figure 3.6 – Sort options</figcaption>
+   - Restaurants are sorted by “Best Match” by default.
+<figure>
+	<img src="Images/Sort.png"
+		width:1000
+		alt="Sort Options">
+</figure>
 
-7.  Search restaurants by typing the name of the restaurant or the dish you would 
+7. Search restaurants by typing the name of the restaurant or the dish you would 
 like into the search bar and clicking the "Search" button.
-![Search](Images/NameSearch.png)
-<figcaption>Figure 3.7 – Search for restaurants or dishes</figcaption>
+<figure>
+	<img src="Images/NameSearch.png"
+		width:1000
+		alt="Search">
+</figure>
 
-8.  Find the restaurant you want to order from and click on it.
-    a.  You will be taken to that restaurant’s page.
-![Restaurant Page](Images/RestaurantPage.png)
-<figcaption>Figure 3.8 – Restaurant’s page</figcaption>
+8. Find the restaurant you want to order from and click on it.
+   - You will be taken to that restaurant’s page.
+<figure>
+	<img src="Images/RestaurantPage.png"
+		width:1000
+		alt="Restaurant Page">
+</figure>
