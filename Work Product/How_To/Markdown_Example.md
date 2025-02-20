@@ -24,14 +24,15 @@ This will bring you to the Just Eat homepage.
 Click on the “Log in” link in the upper right corner.
 ![Log in Button](Images/Log_inButton.png)
 <center>Figure 1.2 - Just Eat log-in location</center>
+
 Click on the “Sign up” link under the login button.
 ![Sign up](Images/SignUpLink.png)
 <center>Figure 1.3 - Sign up link</center>
 
 There are two options for creating an account.
+
 #### Option A:  
 Click on the “Continue with Facebook” button. 
-
 *Note: Only use this option if you 
 already have a Facebook account and are currently signed in.*
 ![Facebook button](Images/FBCreate.png)
@@ -128,6 +129,7 @@ Search for specific types of cuisines either by picking from the “Popular
 Cuisines” options at the top of the page,
 ![Popular Cuisines](Images/PopularCuisine.png)
 <center>Figure 3.5.a – Popular cuisines</center>
+
 *or* select from a more detailed listing on the left side of the page.
 ![All Cuisines](Images/NameSearch.png)
 <center>Figure 3.5.b – All cuisines</center>
