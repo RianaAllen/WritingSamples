@@ -2,7 +2,8 @@
 
 ### <center>Riana Franklin Allen</center>
 
-### <center>April 8, 2020</center>
+### <center>April 8, 2020, updated February 2, 2025</center>
+
 
 ## Introduction
 With the spread of Covid-19 and the Coronavirus, more people are in self-isolation than ever 
@@ -14,28 +15,28 @@ a restaurant from one of the most popular food delivery apps in the United Kingd
 
 ### Signing up 
 Use these steps to create an account. If you already have an account, skip to the next section 
-on logging in.
+on [logging in](#logging_in).
 1. Open any web browser and type [just-eat.co.uk](just-eat.co.uk) into the navigation bar
 and press the Enter key.  
    - This will bring you to the Just Eat homepage.
 <figure>
-	<img src="Images/Homepage.png"
+	<img src="Images/001Homepage.jpg"
 		width: 1000;
 		alt="Just Eat Homepage">
 </figure>
 
 2. Click the “Log in” link in the upper right corner.
 <figure>
-	<img src="Images/Log_inButton.png"
+	<img src="Images/002Log_inButton.jpg"
 		width: 1000;
 		alt="Just Eat Login Button">
 </figure>
 
-3. Click the “Sign up” link under the login button.
+3. Click the “Create an Account” button under the "Log in" button.
 <figure>
-	<img src="Images/SignUpLink.png"
-		width: 1000;
-		alt="Sign up link">
+	<img src="Images/003CreateButton.jpg"
+		width: 300;
+		alt="Create An Account button">
 </figure>
 4.  There are two options for creating an account.
 
@@ -47,7 +48,7 @@ already have a Facebook account and are currently signed in.*
 
    - Click on the “Continue with Facebook” button. 
 <figure>
-	<img src="Images/FBCreate.png"
+	<img src="Images/004FBCreate.jpg"
 		width: 300;
 		alt="Continue with Facebook Login">
 </figure>
@@ -58,32 +59,39 @@ Create an account with your email.
 
    - Type in your name, email address, and a password you will remember. 
 <figure>
-	<img src="Images/SignUpEmail.png"
+	<img src="Images/005SignUpEmail.jpg"
 		width:300;
 		alt="Create an Account">
 </figure>
 
-5. For either option, click this small box if you do not want notifications
-or additional offers via email.
+   - The strength of your password will be shown under your password as you type.
 <figure>
-	<img src="Images/DealsBox.png"
+	<img src="Images/006PasswordStrength.jpg"
 		width: 300;
-		alt="Offers box">
+		alt="Password Strength Indicator">
 </figure>
 	
-6. Click the “Sign up” button to register.
+6. Click the “Create Account” button to register.
    - You will be signed in and brought back to the Just Eat homepage.
 <figure>
-	<img src="Images/SignUpButton.png
+	<img src="Images/007CreateAccountButton.jpg"
 		width: 300
-		alt="Sign up button">
+		alt="Create Account button">
 </figure>
 
-7.  You can verify you are logged in by checking that your name is in the top right corner.
+7.  You can verify you are logged in by clicking on the "hamburger" icon
+in the upper right corner of the screen.
 <figure>
-	<img src=Images/Verify.png
+	<img src="Images/008AccountInfoE.jpg"
 		width:1000
-		alt="Verify Login">
+		alt="Account information hamburger icon">
+</figure>
+
+8. This will open a pop-up window with your Account Information
+<figure>
+	<img src="Images/009AccountInfo.jpg"
+		width:1000
+		alt="Account Information pop up"
 </figure>
 
 ### Logging in 
