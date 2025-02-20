@@ -16,7 +16,7 @@ a restaurant from one of the most popular food delivery apps in the United Kingd
 ### Signing up: 
 Use these steps to create an account. If you already have an account, skip to the next section 
 on logging in.
-Open any web browser and type just-eat.co.uk into the navigation bar and 
+Open any web browser and type [just-eat.co.uk](just-eat.co.uk) into the navigation bar and 
 press enter.  
 This will bring you to the Just Eat homepage.
 ![Just Eat Website home page](Images/Homepage.png)
@@ -31,8 +31,10 @@ Figure 1.3 - Sign up link
 
 There are two options for creating an account.
 #### Option A:  
-Click on the “Continue with Facebook” button. *Note* Only use this option if you 
-already have a Facebook account and are currently signed in.
+Click on the “Continue with Facebook” button. 
+
+*Note: Only use this option if you 
+already have a Facebook account and are currently signed in.*
 ![Facebook button](Images/FBCreate.png)
 Figure 1.4.a - Facebook button
 
@@ -61,7 +63,7 @@ Figure 1.5 – Verify Login
 ### Logging in: 
 Use these steps after an account has been created. See the previous section for how to 
 create an account.
-Open any web browser and type [“just-eat.co.uk”]{just-eat.co.uk} into the navigation bar 
+Open any web browser and type [“just-eat.co.uk”](just-eat.co.uk) into the navigation bar 
 and press enter.  This will bring you to the Just Eat homepage.
 ![Just Eat Homepage](Images/Homepage.png)
 Figure 2.1 – Navigate to Just Eat Home page
@@ -104,7 +106,7 @@ Figure 2.4 – Verify Login
 Once you have created an account and logged in, you can find a restaurant from 
 which to order.
 
-Open any web browser, type “just-eat.co.uk” into the navigation bar, and 
+Open any web browser, type [just-eat.co.uk](just-eat.co.uk) into the navigation bar, and 
 press the enter key.  
 This will bring you to the Just Eat homepage.
 ![Just Eat Homepage](Images/Homepage.png)
