@@ -79,15 +79,7 @@ Create an account with your email.
 		alt="Create Account button">
 </figure>
 
-7.  You can verify you are logged in by clicking on the "hamburger" icon
-in the upper right corner of the screen.
-<figure>
-	<img src="Images/008AcctInfoE.jpg"
-		width:1000
-		alt="Account information hamburger icon">
-</figure>
-
-8. This will open a pop-up window with your Account Information
+7. Signing up will open a pop-up window with your Account Information
 <figure>
 	<img src="Images/009AccountInfo.jpg"
 		width:300
@@ -143,15 +135,16 @@ If you created your account with your email and password, use the following step
 		alt="Login Button">
 </figure>
 
-6. Either login path will bring up the Just Eat homepage and a pop-up window with Account Information
+4. Either login path will bring up the Just Eat homepage and a pop-up window with Account Information.
 <figure>
 	<img src="Images/009LoginAcctInfo.jpg"
 		width:1000
 		alt="Account Information at Login">
 </figure>
 		
-7.  You can verify you are logged in at any time by checking the account information.
-    - Click on the hamburger icon in the upper right corner of the screen
+5.  You can verify you are logged in at any time by checking the account information.
+    - Clicking on the hamburger icon in the upper right corner of the screen will bring up
+the same pop-up window with Account Information.
 <figure>
 	<img src="Images/008AcctInfoE.jpg"
 		width:1000
