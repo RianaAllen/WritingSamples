@@ -55,7 +55,7 @@ account and are currently signed in.*
     -  This will log you in immediately using your Facebook credentials and 
    will open a pop-up window with your Account Information
 <figure>
-	<img src="Images/009LoginAccountInfo.jpg"
+	<img src="Images/009LoginAcctInfo.jpg"
 		width:200;
 		alt="Account Information pop up">
 </figure>
