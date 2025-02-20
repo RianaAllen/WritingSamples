@@ -16,7 +16,7 @@ a restaurant from one of the most popular food delivery apps in the United Kingd
 ### Signing up: 
 Use these steps to create an account. If you already have an account, skip to the next section 
 on logging in.
-Open any web browser and type [just-eat.co.uk](just-eat.co.uk) into the navigation bar and 
+Open any web browser and type just-eat.co.uk into the navigation bar and 
 press enter.  
 This will bring you to the Just Eat homepage.
 ![Just Eat Website home page](Images/Homepage.png)
