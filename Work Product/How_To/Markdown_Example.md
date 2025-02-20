@@ -39,7 +39,7 @@ already have a Facebook account and are currently signed in.*
 
 This will log you in immediately using your Facebook credentials.
 
-##### Option B: 
+#### Option B: 
 Create an account with your email.
 Type in your name, email address, and a password you will remember. 
 ![Create an Account](Images/SignUpEmail.png)
