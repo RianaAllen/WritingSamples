@@ -17,21 +17,21 @@ Use these steps to create an account. If you already have an account, skip to th
 on logging in.
 1.  Open any web browser and type [just-eat.co.uk](just-eat.co.uk) into the navigation bar
 and press the Enter key.  
-   a.  This will bring you to the Just Eat homepage.
+    - This will bring you to the Just Eat homepage.
 <figure>
 	<img src="Images/Homepage.png"
 		width: 1000;
 		alt="Just Eat Homepage">
 </figure>
 
-2.  Click the “Log in” link in the upper right corner.
+1.  Click the “Log in” link in the upper right corner.
 <figure>
 	<img src="Images/Log_inButton.png"
 		width: 1000;
 		alt="Just Eat Login Button">
 </figure>
 
-3.  Click the “Sign up” link under the login button.
+1.  Click the “Sign up” link under the login button.
 <figure>
 	<img src="Images/SignUpLink.png"
 		width: 1000;
@@ -41,7 +41,7 @@ and press the Enter key.
 
 #### Option A
 Use your Facebook account to log in.
-    a.  Click on the “Continue with Facebook” button. 
+      Click on the “Continue with Facebook” button. 
 :memo: **Note:** Only use this option if you 
 already have a Facebook account and are currently signed in.
 <figure>
