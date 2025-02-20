@@ -1,3 +1,4 @@
+
 # Using the Just Eat Website
 (Final Draft)
 
@@ -18,21 +19,21 @@ on logging in.
 Open any web browser and type [just-eat.co.uk](just-eat.co.uk) into the navigation bar and 
 press enter.  
 This will bring you to the Just Eat homepage.
-![Just Eat Website home page]()
+![Just Eat Website home page](Images/Homepage.png)
 Figure 1.1 - Just Eat Homepage
 
 Click on the “Log in” link in the upper right corner.
-![Log in Button]()
+![Log in Button](Images/Log_in_Button.png)
 Figure 1.2 - Just Eat log-in location
 Click on the “Sign up” link under the login button.
-![Sign up]()
+![Sign up](Images/Sign_up_link.png)
 Figure 1.3 - Sign up link
 
 There are two options for creating an account.
 #### Option A:  
 Click on the “Continue with Facebook” button. *Note* Only use this option if you 
 already have a Facebook account and are currently signed in.
-![Facebook button]()
+![Facebook button](Images/FB_Create.png)
 Figure 1.4.a - Facebook button
 
 This will log you in immediately using your Facebook credentials.
@@ -40,20 +41,20 @@ This will log you in immediately using your Facebook credentials.
 ##### Option B: 
 Create an account with your email.
 Type in your name, email address, and a password you will remember. 
-![Create an Account]()
+![Create an Account](Images/Sign_up_email.png)
 Figure 1.4.b.I - Create an Account
 
 Click this small box if you do not want notifications or additional offers via email.
-![Offers box]()
+![Offers box](Images/Deals_box.png)
 Figure 1.4.b.II - Do not receive offers
 
 Click the “Sign up” button to register. You will be signed in and brought back to the Just 
 Eat homepage.
-![Sign up button]()
+![Sign up button](Images/Sign_up_button.png)
 Figure 1.4.b.III – Sign up button
 
 Verify you are logged in by checking the name in the top right corner is yours.
-![Verify Login]()
+![Verify Login](Images/Verify.png)
 Figure 1.5 – Verify Login
 
 
@@ -62,11 +63,11 @@ Use these steps after an account has been created. See the previous section for 
 create an account.
 Open any web browser and type [“just-eat.co.uk”]{just-eat.co.uk} into the navigation bar 
 and press enter.  This will bring you to the Just Eat homepage.
-![Just Eat Homepage]()
+![Just Eat Homepage](Images/Homepage.png)
 Figure 2.1 – Navigate to Just Eat Home page
 
 Click on the “Log in” link in the upper right corner.
-![Login]()
+![Login](Images/Log_in_Button.png)
 Figure 2.2 Just Eat log in location
 
 
@@ -76,74 +77,75 @@ an account.
 #### Option A: 
 If you created your account with your Facebook login, make sure you are currently 
 logged in to Facebook. Click the “Continue with Facebook” button. 
-![Facebook Login]()
+![Facebook Login](Images/Login_FB.png)
 Figure 2.3.a – Facebook login 
 #### Option B: 
 If you created your account with your email and password, use the following steps:
 Enter your email and password information.
-![Email Login]()
+![Email Login](Images/Login_Email.png)
 Figure 2.3.b.I – Email and Password
 
 If you want to reduce the number of times you must log in, keep the “Remember me” 
 box checked. 
 If you would like to log in each time, uncheck this box.
-![Remember Me]()
+![Remember Me](Images/Remember_Me.png)
 Figure 2.3.b.II – Remember me box
-![Log in]()
+
 Click on the “Log in” button. You will be signed in and brought back to the Just 
 Eat homepage.
-![Login Button]()
+![Login Button](Images/Login_Button)
 Figure 2.2.b.III – Login button
 
 Verify you are logged in by checking the name in the top right corner.
+![Verify Login](Images/Verify.png)
 Figure 2.4 – Verify Login
 
 ### Finding Restaurants: 
 Once you have created an account and logged in, you can find a restaurant from 
 which to order.
 
-Open any web browser and type “just-eat.co.uk” into the navigation bar and 
-press enter.  
+Open any web browser, type “just-eat.co.uk” into the navigation bar, and 
+press the enter key.  
 This will bring you to the Just Eat homepage.
-![Just Eat Homepage]()
+![Just Eat Homepage](Images/Homepage.png)
 Figure 3.1 – Navigate to Just Eat Home page
 
 Verify you have created an account and are logged in. 
-![Login]()
+![Login](Images/Verify.png)
 Figure 3.2 – Verify Login
 
 
 Enter your postcode in the search bar. 
-![Postcode]()
+![Postcode](Images/Postcode.png)
 Figure 3.3 – Enter postcode
 	
 Click on the “Search” button. You will be brought to a list of restaurants that 
 service your postcode.
-![Search button]()
+![Search button](Images/Restaurant_Search.png)
 Figure 3.4 – Seach button
 
 Search for specific types of cuisines either by picking from the “Popular 
 Cuisines” options at the top of the page,
-![Popular Cuisines]()
+![Popular Cuisines](Images/Popular_Cuisine.png)
 Figure 3.5.a – Popular cuisines
 *or* select from a more detailed listing on the left side of the page.
-![All Cuisines]()
+![All Cuisines](Images/Name_Search.png)
 Figure 3.5.b – All cuisines
 
 *Currently open restaurants are listed at the top*
-![Open Restaurants]()
+![Open Restaurants](Images/Open_Restaurants.png)
 Figure 3.5.c – Open restaurants
 
 Change how the restaurants are sorted by hovering over the sorting option and 
 selecting a different option. Restaurants are sorted by “Best Match” by default.
-![Sort Options]()
+![Sort Options](Images/Sort.png)
 Figure 3.6 – Sort options
 
 Search restaurants by typing the name of the restaurant or the dish you would 
 like into the search bar and clicking search
-![Search]()
+![Search](Images/Name_Search.png)
 Figure 3.7 – Search for restaurants or dishes
 Find the restaurant you want to order from and click on it. You will be taken 
 to that restaurant’s page.
-![Restaurant Page]()
+![Restaurant Page](Images/Restaurant_Page.png)
 Figure 3.8 – Restaurant’s page
