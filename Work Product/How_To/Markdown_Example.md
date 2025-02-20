@@ -162,7 +162,7 @@ If you forget your password, you can reset this from the Login screen.
 bar, and press the enter key.  
     -  This will bring you to the Just Eat homepage.
 <figure>
-	<img src="Images/Homepage.png"
+	<img src="Images/001Homepage.jpg"
 		width:1000;
 		alt="Just Eat Homepage">
 </figure>
@@ -242,7 +242,7 @@ bar, and press the enter key.
 <figure>
 	<img src="Images/018AddressDropDown.jpg"
  		width:200;
-   		alt=""Address Search drop-down">
+   		alt="Address Search drop-down">
 </figure>
     -  Select your address and click the "Search" button.  
 <figure>
