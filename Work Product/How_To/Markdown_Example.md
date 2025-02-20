@@ -19,10 +19,17 @@ Open any web browser and type [just-eat.co.uk](just-eat.co.uk) into the navigati
 This will bring you to the Just Eat homepage.
 <figure>
 	<img src="Images/Homepage.png"
+		width="200"
 		alt="Just Eat Homepage">
 	<figcaption>Figure 1.1 - Just Eat Homepage</figcaption>
 </figure>
+
 Click on the “Log in” link in the upper right corner.
+<figure>
+	<img src="Images/Homepage.png"
+		alt="Just Eat Homepage">
+	<figcaption>Figure 1.1 - Just Eat Homepage</figcaption>
+</figure>
 ![Log in Button](Images/Log_inButton.png)
 <figcaption>Figure 1.2 - Just Eat log-in location</figcaption>
 
