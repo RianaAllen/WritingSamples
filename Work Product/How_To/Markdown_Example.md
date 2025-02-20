@@ -26,12 +26,10 @@ This will bring you to the Just Eat homepage.
 
 Click on the “Log in” link in the upper right corner.
 <figure>
-	<img src="Images/Homepage.png"
-		alt="Just Eat Homepage">
-	<figcaption>Figure 1.1 - Just Eat Homepage</figcaption>
+	<img src="Images/Log_inButton.png"
+		alt="Just Eat Login Button">
+	<figcaption>>Figure 1.2 - Just Eat log-in location</figcaption>
 </figure>
-![Log in Button](Images/Log_inButton.png)
-<figcaption>Figure 1.2 - Just Eat log-in location</figcaption>
 
 Click on the “Sign up” link under the login button.
 ![Sign up](Images/SignUpLink.png)
