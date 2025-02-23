@@ -174,14 +174,14 @@ bar, and press the enter key.
 with a password reset link.
 <figure>
 	<img src="Images/014PasswordResetSent.jpg"
-		width="300">
+		width="200">
 </figure>
 
 6.  Open the associated email account and find the email from Just Eat.
     -  Click on the link in the email
 <figure>
 	<img src="Images/015PasswordResetEmail.jpg"
-		width="400">
+		width="300">
 </figure>
 
 7.  Type your new password in both open fields and click the "Save your new
